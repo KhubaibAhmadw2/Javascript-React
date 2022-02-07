@@ -1,2 +1,2 @@
 code don't lie
-comments sometimes does
+comments sometime does
